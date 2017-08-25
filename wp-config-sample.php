@@ -38,7 +38,7 @@ define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
 
 define('FS_METHOD', 'direct' );
-
+   
 /**#@+
  * Authentication Unique Keys and Salts.
  *
